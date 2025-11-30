@@ -25,6 +25,7 @@ Typical use-cases:
 - Lightweight and easy to use — no dependencies, works out of the box.
 
 ## Folder / File Structure  
+```bash
 Password-Generator/
 ├── index.html ← main HTML page
 ├── style.css ← CSS for styling
